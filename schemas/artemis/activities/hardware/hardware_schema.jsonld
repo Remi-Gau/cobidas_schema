@@ -36,7 +36,8 @@
                 "isVis": true,
                 "requiredValue": false,
                 "allow": [
-                    "reproschema:Skipped"
+                    "reproschema:Skipped",
+                    "reproschema:DontKnow"
                 ]
             },
             {
